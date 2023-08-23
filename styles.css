@@ -15,6 +15,7 @@
   margin: 0px;
   box-sizing: border-box;
   font-family: "Nunito Sans", sans-serif;
+  scroll-behavior: smooth;
 }
 body {
   font-size: 19px;
